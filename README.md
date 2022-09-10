@@ -1,0 +1,1 @@
+## this is a web app which tells you whether your birthday is palindrome or not. 
